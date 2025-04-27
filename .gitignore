@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# Dataset folder (assuming it's large and shouldn't be in Git)
+EAED/
+my_audio_data/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

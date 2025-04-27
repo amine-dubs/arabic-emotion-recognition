@@ -1,0 +1,29 @@
+# Angry (غاضب)
+- ما هذا الهراء؟ (Ma hatha al-hura'?) - What is this nonsense?
+- أنا غاضب جدا! (Ana ghadib jiddan!) - I am very angry!
+- لا تتحدث معي هكذا! (La tatahaddath ma'i hakatha!) - Don't talk to me like that!
+
+# Fearful (خائف)
+- أنا خائف... (Ana kha'if...) - I'm scared...
+- هل سمعت هذا الصوت؟ (Hal sami'ta hatha al-sawt?) - Did you hear that sound?
+- أرجوك ساعدني! (Arjook sa'idni!) - Please help me!
+
+# Happy (سعيد)
+- يا له من يوم رائع! (Ya lahu min yawm ra'i'!) - What a wonderful day!
+- أنا سعيد جداً لرؤيتك. (Ana sa'eed jiddan li-ru'yatik.) - I'm so happy to see you.
+- هذا مضحك جدا! (Hatha mudhik jiddan!) - This is very funny!
+
+# Neutral (محايد)
+- الكتاب على الطاولة. (Al-kitab 'ala al-tawila.) - The book is on the table.
+- سأذهب إلى السوق غداً. (Sa'athhab ila al-souq ghadan.) - I will go to the market tomorrow.
+- الجو معتدل اليوم. (Al-jaww mu'tadil al-yawm.) - The weather is mild today.
+
+# Sad (حزين)
+- أشعر بالحزن الشديد. (Ash'ur bil-huzn al-shadeed.) - I feel very sad.
+- لقد فقدت كل شيء. (Laqad faqadtu kulla shay'.) - I have lost everything.
+- أتمنى لو كان الأمر مختلفاً. (Atamanna law kana al-amr mukhtalifan.) - I wish things were different.
+
+# Surprised (متفاجئ)
+- حقا؟! (Haqqan?!) - Really?!
+- لم أكن أتوقع هذا! (Lam akun atawaqqa' hatha!) - I didn't expect this!
+- يا إلهي! (Ya ilahi!) - Oh my God!
