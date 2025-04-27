@@ -27,3 +27,8 @@
 - حقا؟! (Haqqan?!) - Really?!
 - لم أكن أتوقع هذا! (Lam akun atawaqqa' hatha!) - I didn't expect this!
 - يا إلهي! (Ya ilahi!) - Oh my God!
+
+To use your recordings, create a main data folder (e.g., my_audio_data).
+Inside my_audio_data, create subfolders for each emotion exactly as named in the EMOTIONS dictionary in the notebook (e.g., Angry, Happy, Sad, etc.).
+Save your .wav recordings into the corresponding emotion folder.
+You will then need to update the DATA_PATH variable in the second code cell of the notebook to point to my_audio_data and potentially adjust the data loading code in the fourth cell if your file naming convention differs significantly from EAED's.
