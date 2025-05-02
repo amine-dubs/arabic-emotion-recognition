@@ -14,7 +14,7 @@ The primary goal is to classify emotions from Arabic audio recordings by:
 ## Implementation Details
 
 ### 1. Dataset
--   The implementation assumes the use of the **Egyptian Arabic Emotion Dataset (EAED)** or a similarly structured dataset.
+-   The implementation assumes the use of the **(EYASE)** or a similarly structured dataset.
 -   The dataset should be placed in a folder named `Data` in the project root.
 -   The expected structure inside `Data` is `Show/Actor/Emotion/*.wav`.
 -   Audio files are loaded using `librosa`, resampled to 16kHz, and truncated/padded to 3 seconds.
